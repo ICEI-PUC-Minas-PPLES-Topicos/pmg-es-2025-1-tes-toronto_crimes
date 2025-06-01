@@ -1,0 +1,4 @@
+/venv-tf
+códigos/database csv/major-crime-indicators.csv
+*.csv
+.csv

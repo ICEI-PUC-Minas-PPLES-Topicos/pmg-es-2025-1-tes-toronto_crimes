@@ -11,7 +11,7 @@ Repositório para publicação das resoluções dos exercícios de Laboratório 
 
 ## Professor responsável
 
-* Leonardo Vilela Cardoso
+* Nome completo do professor
 
 ## Instruções de Uso
 
